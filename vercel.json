@@ -1,6 +1,6 @@
 {
     "redirects":[
-        {"source":"/all",
+        {"source":"/",
         "destination":"/index.html",
         "permanent":true
     }
